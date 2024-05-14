@@ -10,4 +10,9 @@ public class ApppaasController {
     public String apppaas(){
         return "apppaas";
     }
+
+    @GetMapping("/home")
+    public String appPaasHome(){
+        return "homepage/index";
+    }
 }
