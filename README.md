@@ -8,4 +8,6 @@
 ![KakaoTalk_Photo_2024-05-04-00-39-40](https://github.com/seungji2001/AppPaas/assets/86452494/34684838-a5d0-470b-a92e-22e60268aae3)
 
 <h2><a href="https://blog.naver.com/oceanball38/223447862212">AppPaaS 이용 후기 리뷰</a></h2>
-<img src="https://github.com/kchaeeun/AppPaas_homePage/assets/102590823/da9cc86a-0ff4-43a5-87f2-0aef62c76638">
+<a href="https://blog.naver.com/oceanball38/223447862212">
+  <img src="https://github.com/kchaeeun/AppPaas_homePage/assets/102590823/da9cc86a-0ff4-43a5-87f2-0aef62c76638">
+</a>
